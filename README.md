@@ -1,7 +1,7 @@
 # Custom-Compiler-for-a-Basic-Language
 
 
-Steps to make an run the frontendex:
+Steps to make and run the frontendex:
 
     Place frontend.cpp in llvm-project/build/bin
     open the terminal in the same directory
